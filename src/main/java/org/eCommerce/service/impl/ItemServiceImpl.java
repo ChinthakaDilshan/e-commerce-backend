@@ -40,8 +40,5 @@ public class ItemServiceImpl implements ItemService {
         return false;
     }
 
-    @Override
-    public void updateItem(Item item) {
 
-    }
 }

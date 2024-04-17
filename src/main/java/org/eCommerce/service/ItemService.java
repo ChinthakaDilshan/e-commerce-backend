@@ -9,5 +9,5 @@ public interface ItemService {
     void addItem(Item item);
     List<ItemEntity> getAllItems();
     boolean deleteItem(Long id);
-    void updateItem(Item item);
+
 }
